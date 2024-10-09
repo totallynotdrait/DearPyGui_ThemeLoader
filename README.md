@@ -1,4 +1,4 @@
-# DearPyGui_ThemeLoaders
+# DearPyGui_ThemeLoader
 DearPyGui_ThemeLoader (dpgtl) is an easy way to load and write DearPyGui themes with JSON files.
 It comes pre-installed with different example themes
 
