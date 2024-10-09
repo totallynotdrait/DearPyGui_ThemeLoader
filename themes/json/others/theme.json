@@ -1,0 +1,24 @@
+{
+    "mvAll": {
+        "mvStyleVar_PopupBorderSize": 0,
+        "mvStyleVar_ChildBorderSize": 0,
+        "mvStyleVar_WindowBorderSize": 10,
+
+        "mvStyleVar_WindowRounding": 10,
+        "mvStyleVar_ChildRounding": 3,
+        "mvStyleVar_FrameRounding": 3,
+        "mvStyleVar_PopupRounding": 3,
+        "mvStyleVar_GrabRounding": 0,
+        "mvStyleVar_TabRounding": 100,
+
+        "mvStyleVar_WindowTitleAlign": [1, 0],
+
+        "mvThemeCol_WindowBg": [50,198,125,55],
+        "mvThemeCol_TitleBg": [199,120,0,50],
+        "mvThemeCol_TitleBgActive": [19,120,0,50],
+        "mvThemeCol_TitleBgCollapsed": [0,0,0,50],
+        "mvThemeCol_MenuBarBg": [0,0,0,100],
+        "mvThemeCol_PopupBg": [0,0,0,120],
+        "mvThemeCol_ChildBg": [0,0,0,170]
+    }
+}

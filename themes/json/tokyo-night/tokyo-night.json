@@ -1,0 +1,52 @@
+{
+    "mvAll": {
+        "mvThemeCol_Text": [192, 202, 245],
+
+        "mvThemeCol_TitleBg": [31, 35, 53],
+        "mvThemeCol_TitleBgCollapsed": [31, 35, 53],
+        "mvThemeCol_TitleBgActive": [59, 66, 97],
+
+        "mvThemeCol_MenuBarBg": [41, 46, 66],
+
+        "mvThemeCol_FrameBg": [41, 46, 66],
+        "mvThemeCol_FrameBgHovered": [41, 46, 66],
+        "mvThemeCol_FrameBgActive": [41, 46, 66],
+
+        "mvThemeCol_Header": [41, 46, 66],
+        "mvThemeCol_HeaderActive": [59, 66, 97],
+        "mvThemeCol_HeaderHovered": [59, 66, 97],
+
+        "mvThemeCol_Tab": [41, 46, 66],
+        "mvThemeCol_TabActive": [65, 72, 104],
+        "mvThemeCol_TabHovered": [84, 92, 126],
+
+        "mvThemeCol_Separator": [65, 72, 104],
+        "mvThemeCol_SeparatorActive": [65, 72, 104],
+        "mvThemeCol_SeparatorHovered": [65, 72, 104],
+
+        "mvThemeCol_Border": [65, 72, 104],
+        "mvThemeCol_BorderShadow": [65, 72, 104],
+
+        "mvThemeCol_TableHeaderBg": [41, 46, 66],
+        "mvThemeCol_TableBorderLight": [65, 72, 104],
+        "mvThemeCol_TableBorderStrong": [65, 72, 104],
+
+        "mvThemeCol_ResizeGrip": [31, 35, 53],
+        "mvThemeCol_ResizeGripHovered": [41, 46, 66],
+        "mvThemeCol_ResizeGripActive": [41, 46, 66],
+
+        "mvThemeCol_PopupBg": [31, 35, 53],
+
+        "mvThemeCol_WindowBg": [31, 35, 53],
+        "mvThemeCol_ChildBg": [31, 35, 53],
+
+        "mvThemeCol_Button": [41, 46, 66],
+        "mvThemeCol_ButtonHovered": [65, 72, 104],
+        "mvThemeCol_ButtonActive": [65, 72, 104],
+
+        "mvThemeCol_ScrollbarBg": [41, 46, 66],
+        "mvThemeCol_ScrollbarGrab": [65, 72, 104],
+        "mvThemeCol_ScrollbarGrabHovered": [84, 92, 126],
+        "mvThemeCol_ScrollbarGrabActive": [84, 92, 126]
+    }
+}
